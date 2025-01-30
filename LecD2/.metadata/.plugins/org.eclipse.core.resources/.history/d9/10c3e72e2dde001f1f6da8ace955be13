@@ -1,0 +1,11 @@
+package AccessMod2;
+
+import AccessMod.A;
+
+public class D extends A{
+	public static void main(String args[]) {}
+	void display() {
+		System.out.println(n +" "+" " + " "+ n3 +" ");
+	}
+	
+}

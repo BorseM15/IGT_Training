@@ -1,0 +1,41 @@
+package Bank;
+
+class Sbi extends Bank1{
+
+	@Override
+	void ATM(){
+		// TODO Auto-generated method stub
+		System.out.print("Master Card");
+	}
+
+	@Override
+	void FD() {
+		// TODO Auto-generated method stub
+		System.out.print("20%");
+
+	}	
+}
+class Hdfc extends Bank1{
+
+	@Override
+	void ATM() {
+		// TODO Auto-generated method stub
+		System.out.print("Platinum Card");
+
+	}
+	@Override
+	void FD() {
+		// TODO Auto-generated method stub
+		System.out.print("7%");
+
+	}
+	
+}
+public class Demo2 {
+	Sbi s=new Sbi();
+	s.ATM();
+	Hdfc h = new Hdfc();
+	h.ATM();
+	
+	
+}

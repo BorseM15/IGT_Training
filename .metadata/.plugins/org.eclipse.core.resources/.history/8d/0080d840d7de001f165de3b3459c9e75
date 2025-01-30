@@ -1,0 +1,30 @@
+package Bank;
+
+//force you to override method
+abstract class A{
+	abstract void abs();
+	abstract void xyz();
+	abstract void OT();
+}
+abstract class B extends A{
+	void abs() {
+	}
+	void xyz() {
+	}
+	abstract void atoz();	
+}
+class C extends B{
+	void atoz() {
+	}
+	void OT() {
+	}
+}
+public class Demo1 {
+	public static void main(String args[]) {
+		C c=new C();
+		c.abs();
+		c.xyz();
+		c.atoz();
+	}
+
+}

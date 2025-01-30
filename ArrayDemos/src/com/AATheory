@@ -1,0 +1,89 @@
+Concept Overview
+What is an Array?
+	An array is a data structure that stores a fixed-size sequential
+	 collection of elements of the same type.Key Points About Arrays:
+
+
+	Arrays are zero-indexed.
+
+	The size of an array is fixed and cannot be altered once declared.
+	
+	The elements in an array are stored in contiguous memory locations.
+
+---------------------------------------------------------
+Declaration and Initialization:
+
+		int[] arr = new int[5]; // Declaration with size
+		int[] arr2 = {1, 2, 3, 4, 5}; // Declaration with values
+
+		
+=================================================================
+		50 Array Questions and Solutions
+		
+		
+		Easy (1–20)
+
+1 ) Find the sum of all elements in an array.
+2 )Find the largest element in an array.
+3 )Find the smallest element in an array.
+4 ) Reverse an array.
+5 )Check if an array contains a specific value.
+6 )Copy all elements of one array into another array.
+7 )Sort an array in ascending order.
+8 )Sort an array in descending order.
+9 )Find the second largest element in an array.
+10)Remove duplicates from an array.
+11)Find the frequency of each element in an array.
+12)Print all even numbers in an array.
+13)Print all odd numbers in an array.
+14)Find the sum of even and odd elements in an array.
+15)Check if two arrays are equal.
+16)Merge two arrays into one.
+17)Find the difference between the largest and smallest elements.
+18)Find the cumulative sum of elements in an array.
+19)Rotate an array by one position to the right.
+20)Rotate an array by one position to the left.
+
+
+
+
+
+
+			Moderate (21–40)
+
+1 ) Find the intersection of two arrays.
+2 )Find the union of two arrays.
+3 )Check if an array is sorted in ascending order.
+4 )Find the length of the longest increasing subarray.
+5 ) Find the maximum product of two elements in an array.
+6 ) Move all zeroes to the end of an array.
+7 )Find the number of pairs in an array whose sum is equal to a given number.
+8 )Find the first repeating element in an array.
+9 )Find the first non-repeating element in an array.
+10)Find the maximum sum of a subarray (Kadane’s Algorithm).
+11)Implement binary search on a sorted array.
+12)Find the missing number in a sequence of numbers.
+13)Find the kth smallest element in an array.
+14)Find the kth largest element in an array.
+15)Rearrange an array with alternate positive and negative numbers.
+16)Find common elements in three sorted arrays.
+17)Separate even and odd numbers into two arrays.
+18)Find the majority element in an array.
+19)Rearrange the array such that even index elements are smaller and odd index elements are greater.
+20)Check if an array is a subset of another array.
+
+
+
+
+		Difficult (41–50)
+		
+1)Find all subarrays with a given sum.
+2)Find the maximum circular subarray sum.
+3)Find the minimum number of jumps to reach the end of an array.
+4)Find the maximum length of a subarray with equal 0s and 1s.
+5)Find the median of two sorted arrays.
+6)Find the smallest subarray with a sum greater than a given number.
+7)Find the maximum product subarray.
+8)Implement Merge Sort for an array.
+9)Implement Quick Sort for an array.
+

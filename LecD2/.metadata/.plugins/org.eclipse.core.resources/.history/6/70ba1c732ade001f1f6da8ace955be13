@@ -1,0 +1,6 @@
+package AccessMod2;
+
+public class D extends D{
+	
+	
+}

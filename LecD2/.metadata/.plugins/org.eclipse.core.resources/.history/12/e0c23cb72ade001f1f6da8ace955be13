@@ -1,0 +1,8 @@
+package AccessMod2,AccessMod;
+
+public class D extends A{
+	void display() {
+		System.out.println(n +" "+" " + " "+ n3 +" "+ n4);
+	}
+	
+}
